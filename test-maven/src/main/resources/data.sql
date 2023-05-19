@@ -1,0 +1,1 @@
+insert into tb_student (name) VALUES ('Taalai');
